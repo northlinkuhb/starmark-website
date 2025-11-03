@@ -1,0 +1,851 @@
+[
+  {
+    "id": "1",
+    "featured": true,
+    "slug": "40-dry-van-container",
+    "title": "40' DRY VAN Container",
+    "subtitle": "Standard general-purpose shipping container used worldwide for transporting dry cargo safely and efficiently.",
+    "type": "Shipping Container",
+    "placeOfOrigin": "Tianjin,China",
+    "lengthFeet": 40,
+    "dimensions": "40′ L × 8′ W × 8.6′ H (12.19m × 2.44m × 2.62m)",
+    "material": "High-tensile Corten steel",
+    "tare_weight": "8,000 lbs (3,630 kg)",
+    "payload_capacity": "59,000 lbs (26,780 kg)",
+    "floor_type": "Marine-grade plywood / bamboo flooring",
+    "compliance": "ISO certified, CSC plated",
+    "image": "/images/dry-freight.png",
+    "benefits": [
+      {
+        "title": "Spacious Design",
+        "description": "Offers extra capacity for larger shipments, maximizing transport efficiency."
+      },
+      {
+        "title": "Durable Construction",
+        "description": "Made from high-tensile Corten steel to withstand heavy loads and harsh conditions."
+      },
+      {
+        "title": "Secure & Reliable",
+        "description": "Robust locking system ensures your cargo stays safe during transit."
+      },
+      {
+        "title": "Global Shipping Standard",
+        "description": "Fully ISO and CSC certified for worldwide shipping compliance."
+      }
+    ],
+    "use_cases": [
+      {
+        "title": "International Shipping",
+        "description": "Ideal for transporting bulk cargo across oceans efficiently."
+      },
+      {
+        "title": "Warehouse Storage",
+        "description": "Provides secure, long-term storage for goods at warehouses or ports."
+      },
+      {
+        "title": "Construction Material Transport",
+        "description": "Perfect for moving heavy building materials to project sites."
+      },
+      {
+        "title": "Event & Temporary Storage",
+        "description": "Can be used as temporary storage units at events or construction sites."
+      }
+    ]
+  },
+  {
+    "featured": false,
+    "id": "2",
+    "title": "40' High Cube Container",
+    "slug": "40-high-cube-container",
+    "subtitle": "Taller general-purpose container offering extra vertical space for bulky or voluminous cargo.",
+    "type": "Shipping Container",
+    "placeOfOrigin": "Shanghai, China",
+    "lengthFeet": 40,
+    "dimensions": "40′ L × 8′ W × 9.6′ H (12.19m × 2.44m × 2.89m)",
+    "material": "High-tensile Corten steel",
+    "tare_weight": "8,775 lbs (3,980 kg)",
+    "payload_capacity": "58,450 lbs (26,520 kg)",
+    "floor_type": "Marine-grade plywood / bamboo flooring",
+    "image": "/images/high-cube-40.png",
+    "compliance": "ISO certified, CSC plated",
+    "benefits": [
+      {
+        "title": "Extra Vertical Space",
+        "description": "Provides additional height for tall or bulky cargo, maximizing storage capacity."
+      },
+      {
+        "title": "Robust & Durable",
+        "description": "Constructed from high-tensile steel for long-lasting strength and reliability."
+      },
+      {
+        "title": "Secure Transport",
+        "description": "Equipped with strong locking mechanisms to keep cargo safe during shipping."
+      },
+      {
+        "title": "Global Shipping Standard",
+        "description": "Fully ISO and CSC certified for international transport compliance."
+      }
+    ],
+    "use_cases": [
+      {
+        "title": "Furniture & Appliances",
+        "description": "Ideal for transporting tall furniture or large household appliances."
+      },
+      {
+        "title": "Bulk Goods Transport",
+        "description": "Perfect for carrying voluminous cargo that needs extra vertical space."
+      },
+      {
+        "title": "Warehouse Storage",
+        "description": "Can serve as a secure storage solution for tall items in warehouses."
+      },
+      {
+        "title": "Construction Materials",
+        "description": "Suitable for moving long or oversized construction materials safely."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "featured": false,
+    "title": "40' Reefer High Cube",
+    "slug": "40-reefer-high-cube",
+    "subtitle": "Temperature-controlled container with extra height, ideal for perishable or climate-sensitive cargo.",
+    "type": "Reefer Container",
+    "placeOfOrigin": "Qingdao, China",
+    "lengthFeet": 40,
+    "dimensions": "40′ L × 8′ W × 9.6′ H (12.19m × 2.44m × 2.89m)",
+    "material": "High-tensile Corten steel with insulation panels",
+    "tare_weight": "10,580 lbs (4,800 kg)",
+    "payload_capacity": "63,270 lbs (28,700 kg)",
+    "floor_type": "Aluminum T-bar floor (designed for airflow)",
+    "image": "/images/40ft-reefer.png",
+    "compliance": "ISO certified, CSC plated, ATP/FDA compliant",
+    "benefits": [
+      {
+        "title": "Temperature Control",
+        "description": "Maintains precise temperature settings to protect perishable or climate-sensitive cargo."
+      },
+      {
+        "title": "Extra Vertical Space",
+        "description": "High cube design provides more room for larger or stacked shipments."
+      },
+      {
+        "title": "Durable & Insulated",
+        "description": "Constructed from high-tensile steel with insulated panels for long-term reliability."
+      },
+      {
+        "title": "Global Compliance",
+        "description": "ISO, CSC, and ATP/FDA certified for safe international transport of perishable goods."
+      }
+    ],
+    "use_cases": [
+      {
+        "title": "Food & Beverages",
+        "description": "Ideal for transporting fresh, frozen, or chilled products."
+      },
+      {
+        "title": "Pharmaceuticals",
+        "description": "Maintains stable temperatures for sensitive medicines and vaccines."
+      },
+      {
+        "title": "Floral & Agriculture",
+        "description": "Protects flowers, fruits, and vegetables during long-distance transport."
+      },
+      {
+        "title": "Chemical Transport",
+        "description": "Suitable for temperature-sensitive chemicals requiring controlled conditions."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "featured": false,
+    "title": "40' Open Top High Cube",
+    "slug": "40-open-top-high-cube",
+    "subtitle": "Taller container with a removable roof, designed for oversized or heavy cargo loaded from the top.",
+    "type": "Shipping Container",
+    "placeOfOrigin": "Shanghai, China",
+    "lengthFeet": 40,
+    "dimensions": "40′ L × 8′ W × 9.6′ H (12.19m × 2.44m × 2.89m)",
+    "material": "High-tensile Corten steel with removable tarpaulin roof",
+    "tare_weight": "8,600 lbs (3,900 kg)",
+    "payload_capacity": "58,400 lbs (26,500 kg)",
+    "floor_type": "Marine-grade plywood reinforced with steel beams",
+    "compliance": "ISO certified, CSC plated",
+    "image": "/images/open-top-40.jpeg",
+    "benefits": [
+      {
+        "title": "Flexible Loading",
+        "description": "Removable roof allows easy top-loading of oversized or bulky cargo."
+      },
+      {
+        "title": "Extra Vertical Space",
+        "description": "High cube design provides additional room for tall shipments."
+      },
+      {
+        "title": "Durable Construction",
+        "description": "Made from high-tensile steel and reinforced flooring for heavy-duty use."
+      },
+      {
+        "title": "Global Compliance",
+        "description": "ISO and CSC certified for safe international transport."
+      }
+    ],
+    "use_cases": [
+      {
+        "title": "Heavy Machinery Transport",
+        "description": "Ideal for moving large equipment that cannot fit into standard containers."
+      },
+      {
+        "title": "Construction Materials",
+        "description": "Perfect for long beams, pipes, or other oversized materials."
+      },
+      {
+        "title": "Industrial Goods",
+        "description": "Can handle heavy or irregularly shaped industrial cargo."
+      },
+      {
+        "title": "Project-Based Storage",
+        "description": "Used on-site as temporary storage for oversized construction or project materials."
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "featured": false,
+    "title": "40' Flat Rack Container",
+    "slug": "40-flat-rack-container",
+    "subtitle": "Specialized container with collapsible sides, ideal for heavy, oversized, or irregularly shaped cargo.",
+    "type": "Shipping Container",
+    "image": "/images/flat-rack-40.png",
+    "placeOfOrigin": "Qingdao, China",
+    "lengthFeet": 40,
+    "dimensions": "40′ L × 8′ W × 8.6′ H (12.19m × 2.44m × 2.62m)",
+    "material": "High-tensile Corten steel with reinforced floor structure",
+    "tare_weight": "12,300 lbs (5,580 kg)",
+    "payload_capacity": "88,000 lbs (39,916 kg)",
+    "floor_type": "Heavy-duty timber or steel base",
+    "compliance": "ISO certified, CSC plated",
+    "benefits": [
+      {
+        "title": "Heavy Load Capacity",
+        "description": "Designed to carry extremely heavy and oversized cargo safely."
+      },
+      {
+        "title": "Flexible Loading",
+        "description": "Collapsible sides make it easy to load and unload irregularly shaped goods."
+      },
+      {
+        "title": "Durable Construction",
+        "description": "High-tensile steel and reinforced flooring ensure long-lasting performance."
+      },
+      {
+        "title": "Global Shipping Standard",
+        "description": "ISO and CSC certified for safe international transport."
+      }
+    ],
+    "use_cases": [
+      {
+        "title": "Machinery Transport",
+        "description": "Ideal for moving large, heavy machinery that cannot fit in standard containers."
+      },
+      {
+        "title": "Construction Materials",
+        "description": "Perfect for transporting beams, pipes, and oversized construction components."
+      },
+      {
+        "title": "Industrial Equipment",
+        "description": "Suitable for shipping industrial equipment with irregular dimensions."
+      },
+      {
+        "title": "Project Logistics",
+        "description": "Used in project-based logistics for transporting non-standard cargo safely."
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "featured": false,
+    "title": "20' DRY VAN Container",
+    "slug": "20-dry-van-container",
+    "subtitle": "Standard general-purpose container commonly used for transporting dry goods and smaller shipments.",
+    "type": "Shipping Container",
+    "placeOfOrigin": "Tianjin, China",
+    "lengthFeet": 20,
+    "dimensions": "20′ L × 8′ W × 8.6′ H (6.10m × 2.44m × 2.62m)",
+    "material": "Corten steel with wooden floor",
+    "tare_weight": "4,800 lbs (2,177 kg)",
+    "payload_capacity": "44,000 lbs (19,958 kg)",
+    "floor_type": "Plywood or timber",
+    "compliance": "ISO certified, CSC plated",
+    "image": "/images/20dv.jpg",
+    "benefits": [
+      {
+        "title": "Exceptional Durability",
+        "description": "Constructed from high-tensile steel, designed to withstand extreme weather and heavy use."
+      },
+      {
+        "title": "Global Compliance",
+        "description": " Fully CSC-certified for safe and legal transport on ships, trains, and trucks worldwide."
+      },
+      {
+        "title": "Cost Efficiency",
+        "description": "A reliable and long-lasting solution that reduces maintenance and replacement costs over time."
+      },
+      {
+        "title": "Secure Storage",
+        "description": "Features a robust locking mechanism to ensure the security of your goods during transit or storage."
+      }
+    ],
+    "use_cases": [
+      {
+        "title": "Shipping & Logistics",
+        "description": "Ideal for international and domestic freight transport of general cargo."
+      },
+      {
+        "title": "Construction",
+        "description": "Perfect for on-site storage of tools, equipment, and building materials."
+      },
+      {
+        "title": "Agriculture",
+        "description": "Used for storing grain, feed, and other agricultural products securely."
+      },
+      {
+        "title": "Temporary Storage",
+        "description": "A portable and secure solution for temporary storage needs at events or businesses."
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "featured": true,
+    "title": "20' Reefer High Cube",
+    "slug": "20-reefer-high-cube",
+    "subtitle": "Compact, temperature-controlled container with extra height, suitable for perishable or climate-sensitive cargo.",
+    "type": "Reefer Container",
+    "placeOfOrigin": "Shanghai, China",
+    "lengthFeet": 20,
+    "dimensions": "20′ L × 8′ W × 9.6′ H (6.10m × 2.44m × 2.92m)",
+    "material": "High-tensile Corten steel with insulated walls",
+    "tare_weight": "5,300 lbs (2,404 kg)",
+    "payload_capacity": "39,000 lbs (17,690 kg)",
+    "floor_type": "Aluminum or insulated floor",
+    "compliance": "ISO certified, CSC plated",
+    "image": "/images/refrigerator.png",
+    "benefits": [
+      {
+        "title": "Temperature-Controlled",
+        "description": "Maintains precise temperature to keep perishable goods safe."
+      },
+      {
+        "title": "Extra Height",
+        "description": "High cube design allows more vertical space for stacked cargo."
+      },
+      {
+        "title": "Durable Insulation",
+        "description": "Insulated walls ensure cargo protection during long hauls."
+      },
+      {
+        "title": "Global Shipping Standard",
+        "description": "ISO and CSC certified for international compliance."
+      }
+    ],
+    "use_cases": [
+      {
+        "title": "Food & Beverage",
+        "description": "Ideal for transporting chilled or frozen products."
+      },
+      {
+        "title": "Pharmaceuticals",
+        "description": "Keeps medicines and vaccines at required temperatures."
+      },
+      {
+        "title": "Agriculture",
+        "description": "Safe transport for fruits, vegetables, and flowers."
+      },
+      {
+        "title": "Specialty Goods",
+        "description": "Suitable for any temperature-sensitive cargo."
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "featured": false,
+    "title": "20' Open Top High Cube",
+    "slug": "20-open-top-high-cube",
+    "subtitle": "Compact high-cube container with a removable roof, ideal for top-loading smaller oversized or bulky cargo.",
+    "type": "Shipping Container",
+    "placeOfOrigin": "Tianjin,China",
+    "lengthFeet": 20,
+    "dimensions": "20′ L × 8′ W × 9.6′ H (6.10m × 2.44m × 2.92m)",
+    "material": "High-tensile Corten steel with reinforced flooring",
+    "tare_weight": "5,200 lbs (2,359 kg)",
+    "payload_capacity": "44,000 lbs (19,958 kg)",
+    "floor_type": "Timber or steel reinforced",
+    "compliance": "ISO certified, CSC plated",
+    "image": "/images/20-ft-open-top.png",
+    "benefits": [
+      {
+        "title": "Flexible Loading",
+        "description": "Removable roof allows easy loading of oversized cargo from the top."
+      },
+      {
+        "title": "High Cube Design",
+        "description": "Extra height provides more room for bulky items."
+      },
+      {
+        "title": "Durable Build",
+        "description": "Reinforced flooring and high-tensile steel ensure long-term durability."
+      },
+      {
+        "title": "Global Compliance",
+        "description": "ISO and CSC certified for international transport."
+      }
+    ],
+    "use_cases": [
+      {
+        "title": "Construction Materials",
+        "description": "Ideal for pipes, beams, and other oversized building materials."
+      },
+      {
+        "title": "Industrial Equipment",
+        "description": "Suitable for top-loading machinery or irregularly shaped cargo."
+      },
+      {
+        "title": "Project Logistics",
+        "description": "Used in site-based projects for temporary cargo storage."
+      },
+      {
+        "title": "Specialized Goods",
+        "description": "Perfect for cargo that doesn’t fit standard containers."
+      }
+    ]
+  },
+
+  {
+    "id": "9",
+    "featured": false,
+    "title": "20' Flat Rack Container",
+    "slug": "20-flat-rack-container",
+    "subtitle": "Versatile 20′ container with collapsible sides, built for heavy, oversized, or irregularly shaped cargo.",
+    "type": "Shipping Container",
+    "placeOfOrigin": "Qingdao, China",
+    "lengthFeet": 20,
+    "dimensions": "20′ L × 8′ W × 8.6′ H (6.10m × 2.44m × 2.62m)",
+    "material": "High-tensile Corten steel with reinforced floor structure",
+    "tare_weight": "6,800 lbs (3,084 kg)",
+    "payload_capacity": "44,000 lbs (19,958 kg)",
+    "floor_type": "Heavy-duty timber or steel base",
+    "compliance": "ISO certified, CSC plated",
+    "image": "/images/20ft-flat.jpg",
+    "benefits": [
+      {
+        "title": "Heavy Duty Capacity",
+        "description": "Built to carry oversized or heavy cargo safely."
+      },
+      {
+        "title": "Flexible Loading",
+        "description": "Collapsible sides make loading irregularly shaped goods easier."
+      },
+      {
+        "title": "Durable Construction",
+        "description": "Reinforced steel floor ensures long-term reliability."
+      },
+      {
+        "title": "Global Compliance",
+        "description": "ISO and CSC certified for safe international shipping."
+      }
+    ],
+    "use_cases": [
+      {
+        "title": "Machinery Transport",
+        "description": "Ideal for moving industrial or construction machinery."
+      },
+      {
+        "title": "Oversized Cargo",
+        "description": "Perfect for items that don’t fit standard containers."
+      },
+      {
+        "title": "Construction Materials",
+        "description": "Transport beams, pipes, and heavy structural materials safely."
+      },
+      {
+        "title": "Project Logistics",
+        "description": "Used in project-based shipments requiring flexible container options."
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "featured": false,
+    "title": "10' Offshore Dry Containers",
+    "slug": "10-offshore-dry-containers",
+    "subtitle": "Compact, durable container designed for offshore use, ideal for secure transport of dry cargo.",
+    "type": "Offshore Container",
+    "placeOfOrigin": "Shanghai, China",
+    "lengthFeet": 10,
+    "dimensions": "10′ L × 8′ W × 8.6′ H (3.05m × 2.44m × 2.62m)",
+    "material": "Corten steel with reinforced wooden floor",
+    "tare_weight": "2,800 lbs (1,270 kg)",
+    "payload_capacity": "22,000 lbs (9,979 kg)",
+    "floor_type": "Plywood or timber",
+    "compliance": "ISO certified, CSC plated",
+    "image": "/images/offshore-10ft.webp",
+    "benefits": [
+      {
+        "title": "Compact & Robust",
+        "description": "Small footprint for tight offshore spaces, yet built to withstand harsh conditions."
+      },
+      {
+        "title": "Durable Materials",
+        "description": "High-strength steel and reinforced flooring for heavy-duty offshore use."
+      },
+      {
+        "title": "Secure Storage",
+        "description": "Keeps cargo safe in challenging offshore environments."
+      },
+      {
+        "title": "Global Compliance",
+        "description": "ISO and CSC certified for safe transport worldwide."
+      }
+    ],
+    "use_cases": [
+      {
+        "title": "Offshore Equipment",
+        "description": "Transport tools and equipment to offshore sites safely."
+      },
+      {
+        "title": "Small Cargo Storage",
+        "description": "Securely store small, essential supplies on offshore rigs."
+      },
+      {
+        "title": "Marine Logistics",
+        "description": "Optimized for shipping in marine and offshore operations."
+      },
+      {
+        "title": "Temporary Storage",
+        "description": "Compact solution for temporary storage needs on vessels."
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "featured": false,
+    "title": "20' Offshore Dry Containers",
+    "slug": "20-offshore-dry-containers",
+    "subtitle": "Strong and weather-resistant 20′ container designed for offshore use, ideal for secure transport of dry cargo.",
+    "type": "Offshore Container",
+    "placeOfOrigin": "Shanghai, China",
+    "lengthFeet": 20,
+    "dimensions": "20′ L × 8′ W × 8.6′ H (6.10m × 2.44m × 2.62m)",
+    "material": "Corten steel with reinforced wooden floor",
+    "tare_weight": "5,500 lbs (2,495 kg)",
+    "payload_capacity": "44,000 lbs (19,958 kg)",
+    "floor_type": "Plywood or timber",
+    "compliance": "ISO certified, CSC plated",
+    "image": "/images/20ft-offshore.jpg",
+    "benefits": [
+      {
+        "title": "Heavy-Duty Offshore Use",
+        "description": "Built to withstand rough marine environments and harsh weather."
+      },
+      {
+        "title": "Secure & Reliable",
+        "description": "Ensures cargo remains protected during long offshore transport."
+      },
+      {
+        "title": "Durable Construction",
+        "description": "Corten steel and reinforced flooring provide long-term durability."
+      },
+      {
+        "title": "Global Compliance",
+        "description": "ISO and CSC certified for worldwide shipping standards."
+      }
+    ],
+    "use_cases": [
+      {
+        "title": "Offshore Logistics",
+        "description": "Transport equipment, machinery, and supplies to offshore installations."
+      },
+      {
+        "title": "Construction Materials",
+        "description": "Ideal for heavy building materials in marine projects."
+      },
+      {
+        "title": "Marine Storage",
+        "description": "Safe storage for cargo on offshore platforms."
+      },
+      {
+        "title": "Project-Based Transport",
+        "description": "Suitable for time-sensitive offshore operations."
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "featured": false,
+    "title": "Flat Pack Container Office 20'",
+    "slug": "flat-pack-container-office-20",
+    "subtitle": "Modular 20′ flat pack container office, easy to transport, assemble, and customize for workspace needs.",
+    "type": "Container House",
+    "placeOfOrigin": "Shanghai, China",
+    "lengthFeet": 20,
+    "dimensions": "20′ L × 8′ W × 8.6′ H (6.10m × 2.44m × 2.62m)",
+    "material": "High-strength steel frame with insulated panels",
+    "tare_weight": "4,800 lbs (2,177 kg)",
+    "payload_capacity": "6,600 lbs (2,994 kg)",
+    "floor_type": "Insulated timber floor",
+    "compliance": "ISO certified",
+    "image": "/images/office-pack.webp",
+    "benefits": [
+      {
+        "title": "Modular & Portable",
+        "description": "Easy to transport and assemble at different locations."
+      },
+      {
+        "title": "Customizable Workspace",
+        "description": "Can be tailored with partitions, windows, and doors."
+      },
+      {
+        "title": "Durable Construction",
+        "description": "High-strength steel frame ensures long-lasting usage."
+      },
+      {
+        "title": "Insulated Interior",
+        "description": "Provides comfortable working conditions in different climates."
+      }
+    ],
+    "use_cases": [
+      {
+        "title": "Construction Site Office",
+        "description": "Portable workspace for site managers and staff."
+      },
+      {
+        "title": "Temporary Workspace",
+        "description": "Perfect for pop-up offices or temporary facilities."
+      },
+      {
+        "title": "Remote Locations",
+        "description": "Can be deployed in areas without permanent structures."
+      },
+      {
+        "title": "Custom Office Setup",
+        "description": "Modular solution for tailored office requirements."
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "featured": true,
+    "title": "ISO Tank Containers",
+    "slug": "iso-tank-containers",
+    "subtitle": "Specialized ISO-certified containers designed for the safe transport of bulk liquids and chemicals.",
+    "type": "Tank Container",
+    "placeOfOrigin": "Shanghai, China",
+    "lengthFeet": 20,
+    "dimensions": "20′ L × 8′ W × 8.6′ H (6.10m × 2.44m × 2.62m)",
+    "material": "Stainless steel tank with protective steel frame",
+    "tare_weight": "9,800 lbs (4,445 kg)",
+    "payload_capacity": "55,000 lbs (24,947 kg)",
+    "floor_type": "Integrated tank base",
+    "compliance": "ISO certified, ADR compliant",
+    "image": "/images/tank.png",
+    "benefits": [
+      {
+        "title": "Safe Liquid Transport",
+        "description": "Stainless steel tank ensures secure transportation of liquids and chemicals."
+      },
+      {
+        "title": "Durable Protection",
+        "description": "Protective steel frame guards against damage during handling and transit."
+      },
+      {
+        "title": "Global Compliance",
+        "description": "ISO and ADR certified for international and hazardous cargo transport."
+      },
+      {
+        "title": "Versatile Use",
+        "description": "Suitable for a wide range of liquid products, including chemicals and food-grade liquids."
+      }
+    ],
+    "use_cases": [
+      {
+        "title": "Chemical Transport",
+        "description": "Transport industrial chemicals safely and securely."
+      },
+      {
+        "title": "Food-Grade Liquids",
+        "description": "Used for transporting bulk liquids like oils, juices, or syrups."
+      },
+      {
+        "title": "Industrial Applications",
+        "description": "Ideal for manufacturing and processing plants needing bulk liquid shipment."
+      },
+      {
+        "title": "Hazardous Materials",
+        "description": "Certified for safe handling of regulated hazardous liquids."
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "featured": false,
+    "title": "Intermediate Bulk Containers (IBCs) & HDPE Drums",
+    "slug": "intermediate-bulk-containers-ibcs-hdpe-drums",
+    "subtitle": "Durable storage and transport solutions for liquids, chemicals, and bulk materials.",
+    "type": "Reefer Container",
+    "placeOfOrigin": "Shanghai, China",
+    "lengthFeet": 4,
+    "dimensions": "4′ L × 4′ W × 5′ H (1.22m × 1.22m × 1.52m) for IBCs; standard HDPE drum sizes vary",
+    "material": "High-density polyethylene (HDPE) and steel cage for IBCs",
+    "tare_weight": "IBC: 550 lbs (250 kg); HDPE Drum: 50 lbs (23 kg)",
+    "payload_capacity": "IBC: 2,750 lbs (1,250 kg); HDPE Drum: 440 lbs (200 kg)",
+    "floor_type": "IBC: Integrated base; HDPE Drum: Standard drum base",
+    "compliance": "UN/DOT certified, ISO compliant",
+    "image": "/images/ibc.jpg",
+    "benefits": [
+      {
+        "title": "Safe & Durable",
+        "description": "High-quality HDPE and steel ensure safe storage and long-lasting performance."
+      },
+      {
+        "title": "Versatile Use",
+        "description": "Suitable for a wide variety of liquids, chemicals, and bulk materials."
+      },
+      {
+        "title": "Easy Handling",
+        "description": "IBC and drum designs allow convenient transport, stacking, and lifting."
+      },
+      {
+        "title": "Certified Compliance",
+        "description": "Meets UN/DOT and ISO standards for safe transport worldwide."
+      }
+    ],
+    "use_cases": [
+      {
+        "title": "Chemical Storage",
+        "description": "Safe transport and storage of industrial chemicals."
+      },
+      {
+        "title": "Food & Beverage",
+        "description": "Use for bulk food-grade liquids like oils, syrups, or juices."
+      },
+      {
+        "title": "Agriculture",
+        "description": "Ideal for fertilizers, feed, and liquid agricultural products."
+      },
+      {
+        "title": "Logistics & Distribution",
+        "description": "Convenient for shipping and temporary storage of bulk materials."
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "featured": false,
+    "title": "Blast Proof Containers",
+    "slug": "blast-proof-containers",
+    "subtitle": "Reinforced containers engineered to withstand explosions, ensuring maximum safety in hazardous environments.",
+    "type": "Reefer Container",
+    "placeOfOrigin": "Tianjin,China",
+    "lengthFeet": 20,
+    "dimensions": "20′ L × 8′ W × 8.6′ H (6.10m × 2.44m × 2.62m)",
+    "material": "High-strength steel with reinforced blast-resistant panels",
+    "tare_weight": "15,000 lbs (6,804 kg)",
+    "payload_capacity": "20,000 lbs (9,072 kg)",
+    "floor_type": "Reinforced steel base",
+    "compliance": "ISO certified, blast-resistant standards",
+    "image": "/images/blast.png",
+    "benefits": [
+      {
+        "title": "Maximum Safety",
+        "description": "Engineered to withstand blasts, protecting both cargo and personnel."
+      },
+      {
+        "title": "Robust Construction",
+        "description": "High-strength steel panels ensure durability in extreme conditions."
+      },
+      {
+        "title": "Certified Standards",
+        "description": "Compliant with ISO blast-resistant regulations for secure transport."
+      },
+      {
+        "title": "Versatile Protection",
+        "description": "Can be used for sensitive, hazardous, or valuable cargo."
+      }
+    ],
+    "use_cases": [
+      {
+        "title": "Military & Defense",
+        "description": "Safe transport and storage of ammunition and explosives."
+      },
+      {
+        "title": "Industrial Safety",
+        "description": "Protect hazardous materials in manufacturing environments."
+      },
+      {
+        "title": "High-Risk Logistics",
+        "description": "For shipping valuable or dangerous cargo that requires extra protection."
+      },
+      {
+        "title": "Secure Storage",
+        "description": "Use as on-site storage in hazardous or high-security zones."
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "featured": false,
+    "title": "Corrosion Proof Containers",
+    "slug": "corrosion-proof-containers",
+    "subtitle": "Specialized containers with anti-corrosive protection, ideal for harsh and marine environments.",
+    "type": "Shipping Container",
+    "placeOfOrigin": "Shanghai, China",
+    "lengthFeet": 20,
+    "dimensions": "20′ L × 8′ W × 8.6′ H (6.10m × 2.44m × 2.62m)",
+    "material": "Stainless steel or coated high-strength steel",
+    "tare_weight": "14,000 lbs (6,350 kg)",
+    "payload_capacity": "26,000 lbs (11,793 kg)",
+    "floor_type": "Reinforced steel or coated timber",
+    "compliance": "ISO certified, corrosion-resistant standards",
+    "image": "/images/corrosion.png",
+    "benefits": [
+      {
+        "title": "Long-Term Durability",
+        "description": "Corrosion-resistant materials protect against harsh environmental conditions."
+      },
+      {
+        "title": "Marine-Ready",
+        "description": "Ideal for shipping in salty or humid environments without degradation."
+      },
+      {
+        "title": "Secure Cargo",
+        "description": "Maintains structural integrity to safeguard goods."
+      },
+      {
+        "title": "ISO Certified",
+        "description": "Meets international standards for safe and reliable shipping."
+      }
+    ],
+    "use_cases": [
+      {
+        "title": "Marine Transport",
+        "description": "Transport goods in coastal or offshore regions safely."
+      },
+      {
+        "title": "Chemical & Corrosive Materials",
+        "description": "Ideal for products that require corrosion protection."
+      },
+      {
+        "title": "Industrial Storage",
+        "description": "Use in chemical plants, refineries, or other corrosive environments."
+      },
+      {
+        "title": "Long-Term Shipping",
+        "description": "Perfect for goods that require extended storage in challenging conditions."
+      }
+    ]
+  }
+]

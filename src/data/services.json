@@ -1,0 +1,308 @@
+[
+  {
+    "id": 1,
+    "slug": "logistics-shipping",
+    "title": "Logistics & Shipping",
+    "description": "Our Logistics & Shipping services ensure smooth transportation and reliable supply chain management. From container handling to global shipping, we deliver cost-effective and timely solutions that adapt to your business needs. With a focus on efficiency and transparency, we help you move goods seamlessly across regions and markets",
+    "subtitle": "End-to-end logistics and shipping solutions, ensuring secure, efficient, and cost-effective movement of goods worldwide.",
+    "overview": "At Starmark, we specialize in delivering comprehensive logistics and shipping services that keep global trade moving seamlessly. From containerized shipping and cargo handling to customs clearance and last-mile delivery, our expertise ensures your goods reach their destination safely and on time. With a strong global network and modern container terminals, we provide businesses with efficient and scalable solutions to meet the demands of international trade and supply chain management.",
+    "image": "/images/logistics.webp",
+    "thumbnanil": "/images/logistics-thumb.jpeg",
+    "benefits": [
+      {
+        "title": "Reliable Global Network",
+        "description": "Our worldwide partnerships and routes guarantee smooth cross-border shipping and logistics operations."
+      },
+      {
+        "title": "Cost-Optimized Shipping",
+        "description": "We provide competitive rates and efficient logistics planning to reduce overall transportation costs."
+      },
+      {
+        "title": "Flexible Solutions",
+        "description": "From full container loads (FCL) to less-than-container loads (LCL), we adapt shipping options to your business needs."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "We handle documentation, customs, warehousing, and final delivery, so you can focus on your core business."
+      }
+    ],
+    "cases": [
+      {
+        "title": "International Trade",
+        "description": "Our logistics solutions support importers and exporters with reliable ocean freight, customs clearance, and timely deliveries.",
+        "image": "/images/international-trade.webp"
+      },
+      {
+        "title": "E-commerce Fulfillment",
+        "description": "From warehouse storage to last-mile delivery, we enable e-commerce businesses to meet growing customer demands worldwide.",
+        "image": "/images/warehouse.webp"
+      },
+      {
+        "title": "Industrial Projects",
+        "description": "We manage the transport of heavy machinery, construction equipment, and raw materials to project sites across regions.",
+        "image": "/images/ecommerce-fulfillment.webp"
+      },
+      {
+        "title": "Cold Chain Logistics",
+        "description": "Our reefer container solutions ensure temperature-sensitive goods like food, pharmaceuticals, and chemicals are transported safely.",
+        "image": "/images/cold-chain.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "slug": "container-sales",
+    "title": "Container Sales",
+    "description": "We supply certified new and used containers designed for storage, shipping and specialized uses. Our inspections, refurbishing and documentation ensure you receive a safe, compliant unit that fits your budget.",
+    "subtitle": "Your reliable source for high-quality shipping containers, offering flexible and cost-effective solutions for your logistics and storage needs.",
+    "overview": "At Starmark, we provide high-quality new and used containers for purchase, giving businesses and individuals a reliable solution for storage, shipping, and specialized applications. Buying a container is a cost-effective investment for long-term use, offering durability, security, and flexibility for a variety of needs. From standard dry containers to refrigerated and custom-built units, our wide selection ensures you find the right fit. Every container undergoes inspection and refurbishment to meet international standards, ensuring safety and compliance for your cargo and projects.",
+    "image": "/images/container-sales.png",
+    "thumbnanil": "/images/conatiner-sales.png",
+
+    "benefits": [
+      {
+        "title": "Quality & Reliability",
+        "description": "Our containers are built to international standards, ensuring durability and safety for your cargo."
+      },
+      {
+        "title": "Cost-Effective Solutions",
+        "description": "Purchasing a container can be more economical for long-term use than leasing."
+      },
+      {
+        "title": "Wide Selection",
+        "description": "Choose from new or used containers, and various sizes including 20ft, 40ft, and specialty reefers."
+      },
+      {
+        "title": "Global Delivery",
+        "description": "We can arrange delivery to your specified location, anywhere in the world."
+      }
+    ],
+    "cases": [
+      {
+        "title": "On-site storage",
+        "description": "Containers provide a cost-effective and highly secure option for on-site storage. Businesses and construction projects can store valuable tools, machinery, spare parts, and raw materials without worrying about weather damage or theft.",
+        "image": "/images/site-storage.png"
+      },
+      {
+        "title": "Mobile offices",
+        "description": "Shipping containers can be converted into modern mobile offices, offering air-conditioned, portable, and secure workspaces that are perfect for construction sites, events, or remote operations.",
+        "image": "/images/mobile-offices.png"
+      },
+      {
+        "title": "Retail pop-ups",
+        "description": "Containers can be repurposed into attractive and modular retail spaces. They are affordable, relocatable, and perfect for showcasing products in high-footfall areas like malls and outdoor markets.",
+        "image": "/images/retail-pops.png"
+      },
+      {
+        "title": "Remote Project sites",
+        "description": "For mining, oil, and infrastructure projects in remote areas, containers can serve as housing, kitchens, or secure storage facilities, ensuring convenience and durability on-site.",
+        "image": "/images/Remote-Project-sites.png"
+      }
+    ]
+  },
+
+  {
+    "id": "3",
+    "slug": "container-leasing",
+    "title": "Container Leasing",
+    "description": "Container leasing is the practice of renting shipping containers instead of buying them, offering a flexible and affordable solution for temporary use.",
+    "subtitle": "Flexible short-term and long-term container leasing solutions tailored to your logistics, storage, and project requirements.",
+    "overview": "At Starmark, we provide tailored container leasing services designed to meet the dynamic needs of global trade and local businesses alike. Leasing containers allows companies to scale their operations cost-effectively without the burden of ownership. Whether for short-term projects, seasonal demands, or long-term contracts, our leasing options give you access to a wide range of container types. With a global delivery network, maintenance support, and flexible terms, Starmark ensures your cargo moves efficiently and securely.",
+    "image": "/images/leasing.jpeg",
+    "thumbnanil": "/images/container-leasing.png",
+
+    "benefits": [
+      {
+        "title": "Flexible Terms",
+        "description": "Choose from short-term or long-term leasing options that align with your project timelines and business goals."
+      },
+      {
+        "title": "Lower Upfront Costs",
+        "description": "Avoid the high capital investment of purchasing containers by paying only for the duration you need them."
+      },
+      {
+        "title": "Wide Container Range",
+        "description": "Lease standard, high-cube, refrigerated, or specialized containers based on your cargo requirements."
+      },
+      {
+        "title": "Global Availability",
+        "description": "Access containers at major ports and inland hubs worldwide, with delivery directly to your location."
+      }
+    ],
+    "cases": [
+      {
+        "title": "Seasonal Storage",
+        "description": "Retailers and distributors lease containers during peak seasons to handle extra inventory without building new storage facilities.",
+        "image": "/images/rent.webp"
+      },
+      {
+        "title": "Construction Projects",
+        "description": "Contractors lease containers as temporary site storage for tools, materials, and equipment during project lifecycles.",
+        "image": "/images/tools.webp"
+      },
+      {
+        "title": "Event Logistics",
+        "description": "Organizers lease containers as portable storage or on-site facilities for concerts, exhibitions, and festivals.",
+        "image": "/images/event.webp"
+      },
+      {
+        "title": "Short-Term Shipping",
+        "description": "Businesses lease containers for one-off shipments, minimizing costs while ensuring secure transport across regions.",
+        "image": "/images/short-term.jpg"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "slug": "repairs-and-maintenance",
+    "title": "Repairs and Maintenance",
+    "description": "Cargo container Repairs and Maintenance involve a series of tasks to keep containers in good working condition. Because they are constantly exposed to harsh weather and handling, containers require regular upkeep to remain safe and functional.",
+    "subtitle": "Comprehensive repair and maintenance services to extend container lifespan and ensure cargo safety.",
+    "overview": "At Starmark, we provide professional repair and maintenance services to keep your shipping containers in top condition. Containers face constant wear and tear from handling, stacking, and harsh weather, making regular upkeep essential. Our services include structural repairs, corrosion treatment, repainting, door and lock system fixes, and certification checks. By ensuring your containers meet international safety and compliance standards, we help you avoid costly delays and extend the life of your assets.",
+    "image": "/images/repairing.png",
+    "thumbnanil": "/images/repairs.png",
+
+    "benefits": [
+      {
+        "title": "Extended Lifespan",
+        "description": "Routine maintenance prevents corrosion and structural damage, keeping containers serviceable for longer."
+      },
+      {
+        "title": "Compliance & Safety",
+        "description": "All repairs meet international ISO and CSC standards, ensuring your containers remain certified for global use."
+      },
+      {
+        "title": "Cost Savings",
+        "description": "Preventive maintenance reduces the risk of expensive emergency repairs or container replacement."
+      },
+      {
+        "title": "Custom Services",
+        "description": "We provide tailored repair and modification services to suit specific operational requirements."
+      }
+    ],
+    "cases": [
+      {
+        "title": "Structural Repairs",
+        "description": "Fixing dents, cracks, and damaged panels to restore container integrity and cargo safety.",
+        "image": "/images/crack.webp"
+      },
+      {
+        "title": "Corrosion Treatment",
+        "description": "Removing rust and applying protective coatings to extend durability against harsh weather conditions.",
+        "image": "/images/rust.jpg"
+      },
+      {
+        "title": "Door & Lock Repairs",
+        "description": "Maintaining hinges, seals, and locking mechanisms to ensure secure and smooth operation.",
+        "image": "/images/door.webp"
+      },
+      {
+        "title": "Repainting & Branding",
+        "description": "Repainting containers for protection and adding custom branding or color schemes as required.",
+        "image": "/images/painting.webp"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "slug": "container-terminal",
+    "title": "Container Terminal",
+    "description": "A container terminal is a specialized facility at a port, rail yard, or inland location where cargo containers are sorted, stored, and transferred between different modes of transport, such as ships, trains, and trucks. It acts as a major hub for global trade",
+    "subtitle": "Efficient, secure, and technology-driven terminal services for smooth cargo handling and global connectivity.",
+    "overview": "At Starmark, our container terminals serve as critical hubs in the global supply chain, enabling the smooth transfer of cargo between sea, road, and rail. Equipped with advanced handling equipment and modern facilities, our terminals ensure efficient loading, unloading, storage, and container tracking. With a focus on safety, speed, and compliance, we support importers, exporters, and logistics providers by reducing turnaround times and improving supply chain reliability. Whether at ports or inland depots, Starmark container terminals are built to keep cargo moving seamlessly.",
+    "image": "/images/term.jpeg",
+    "thumbnanil": "/images/container-terminal.png",
+
+    "benefits": [
+      {
+        "title": "Operational Efficiency",
+        "description": "Modern cranes, forklifts, and yard management systems speed up container handling and reduce delays."
+      },
+      {
+        "title": "Secure Storage",
+        "description": "Containers are stored in safe, well-monitored facilities to protect cargo from theft and damage."
+      },
+      {
+        "title": "Intermodal Connectivity",
+        "description": "Seamless transfer between ships, trucks, and trains ensures flexibility and reduces logistics costs."
+      },
+      {
+        "title": "Real-Time Tracking",
+        "description": "Digital systems provide visibility into container status, location, and handling operations."
+      }
+    ],
+    "cases": [
+      {
+        "title": "Port Operations",
+        "description": "Handling import and export shipments efficiently with quick loading and unloading of vessels.",
+        "image": "/images/port.webp"
+      },
+      {
+        "title": "Inland Depots",
+        "description": "Supporting regional logistics with storage and transfer points located closer to customers and industries.",
+        "image": "/images/inland.jpg"
+      },
+      {
+        "title": "Transshipment Hubs",
+        "description": "Managing cargo transfers between vessels for international routes with minimal turnaround time.",
+        "image": "/images/transhipment.jpg"
+      },
+      {
+        "title": "Value-Added Services",
+        "description": "Providing container cleaning, inspection, and minor repair services directly at the terminal.",
+        "image": "/images/inspection.jpg"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "slug": "container-conversion",
+    "title": "Container Conversion",
+    "description": "Container conversion is the process of repurposing and modifying used shipping containers into new, functional structures. Instead of being scrapped, these durable steel boxes are transformed into a wide range of buildings and spaces, offering a sustainable and innovative building solution.",
+    "subtitle": "Innovative, flexible, and sustainable container solutions for modern spaces.",
+    "overview": "Container conversion allows businesses and individuals to transform standard shipping containers into functional and creative spaces. From offices, pop-up shops, and cafés to classrooms, clinics, and remote project facilities, converted containers offer a cost-effective, sustainable, and modular alternative to traditional construction. At Starmark, we design and deliver container conversion solutions that prioritize durability, mobility, and aesthetic appeal while meeting diverse project requirements.",
+    "image": "/images/conversion.png",
+    "thumbnanil": "/images/container-convertion.png",
+
+    "benefits": [
+      {
+        "title": "Sustainable & Eco-Friendly",
+        "description": "Repurposing containers reduces waste and minimizes the need for traditional construction materials."
+      },
+      {
+        "title": "Cost-Effective Construction",
+        "description": "Conversions are faster and cheaper than conventional building methods, ideal for businesses and startups."
+      },
+      {
+        "title": "Flexible & Modular",
+        "description": "Containers can be stacked, combined, and customized to create versatile spaces that adapt to your needs."
+      },
+      {
+        "title": "Durable & Portable",
+        "description": "Made from high-strength steel, converted containers are secure, weather-resistant, and relocatable."
+      }
+    ],
+    "cases": [
+      {
+        "title": "Pop-Up Shops",
+        "description": "Containers can be transformed into attractive retail spaces that are easy to relocate and set up in high-footfall areas.",
+        "image": "/images/pop-up-shop.webp"
+      },
+      {
+        "title": "Mobile Offices",
+        "description": "Create modern, portable workspaces with air-conditioning and secure interiors for construction sites or remote projects.",
+        "image": "/images/mobile-offices.png"
+      },
+      {
+        "title": "Classrooms & Clinics",
+        "description": "Convert containers into functional education or healthcare units, providing safe and flexible spaces in remote or urban locations.",
+        "image": "/images/classroom.jpg"
+      },
+      {
+        "title": "Remote Housing & Project Sites",
+        "description": "Use converted containers as on-site housing, kitchens, or storage for mining, oil, and infrastructure projects.",
+        "image": "/images/remote-project-sites.png"
+      }
+    ]
+  }
+]
