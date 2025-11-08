@@ -76,7 +76,7 @@ const OurJourney = () => {
     };
   }, []);
   return (
-    <div className="~pt-[2.5rem]/[4.75rem] ~px-[0.9375rem]/[18.75rem]">
+    <div className="~pt-[2.5rem]/[4.75rem]  ~pb-[3.125rem]/[8.125rem] ~px-[0.9375rem]/[18.75rem]">
       <TextAnimation delay={0.2}>
         <h2 className="~text-[1.5rem]/[3.99625rem] whitespace-nowrap pb-[1.6875rem] leading-[100%] text-[#004EB2] font-medium">
           Our Journey

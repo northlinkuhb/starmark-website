@@ -1,5 +1,5 @@
 import React from "react";
-import service from "@public/images/product-hero.png";
+import service from "@public/images/new-test.png";
 import BlueFade from "@/components/BlueFade";
 import Image from "next/image";
 import TextAnimation from "@/components/animations/TextAnimation";

@@ -5,12 +5,14 @@ import { Disclosure, DisclosureButton } from "@headlessui/react";
 import { motion, AnimatePresence } from "motion/react";
 import PlusIcon from "@/components/svg/PlusIcon";
 import MinusIcon from "@/components/svg/MinusIcon";
-import collabrate from "@public/images/collabrate.jpg";
+import collabrate from "@public/images/collabrate.png";
 import Image from "next/image";
 import TextAnimation from "@/components/animations/TextAnimation";
 import ArrowButton from "@/components/ArrowButton";
 import ArrowTopRight from "@/components/svg/ArrowTopRight";
 import Link from "next/link";
+import Partner from "../about-us/_components/Partner";
+
 const questions = [
   {
     title: "What services does Starmark provide?",
@@ -20,29 +22,30 @@ const questions = [
   {
     title: "Do you sell both new and used containers?",
     description:
-      "We specialize in container solutions including sales, leasing, repairs, reefer containers, conversion projects, terminal services, shipping, and end-to-end logistics such as customs clearance and freight forwarding.",
+      "Yes, we provide both brand-new and pre-owned containers in excellent condition. Every used container is thoroughly inspected and certified to meet international standards, giving you flexible, reliable, and cost-effective options for your business needs.",
   },
   {
     title: "Can I lease containers for short-term projects?",
     description:
-      "We specialize in container solutions including sales, leasing, repairs, reefer containers, conversion projects, terminal services, shipping, and end-to-end logistics such as customs clearance and freight forwarding.",
+      "Absolutely. Starmark offers short- and long-term container leasing options tailored to your project timeline and budget. Whether you need units for a few weeks or several months, we ensure quick availability and hassle-free contract management.",
   },
   {
     title: "What types of containers are available?",
     description:
-      "We specialize in container solutions including sales, leasing, repairs, reefer containers, conversion projects, terminal services, shipping, and end-to-end logistics such as customs clearance and freight forwarding.",
+      "We offer a wide variety of container types, including standard dry containers, high cubes, reefers, open tops, flat racks, and customized conversion units. Each container is maintained to the highest quality standards for safety and durability.",
   },
   {
     title: "How do I request a quotation?",
     description:
-      "We specialize in container solutions including sales, leasing, repairs, reefer containers, conversion projects, terminal services, shipping, and end-to-end logistics such as customs clearance and freight forwarding.",
+      "You can easily request a quotation by contacting our sales team via our website or email. Simply provide details like container type, size, and location — and our logistics experts will respond promptly with a tailored proposal.",
   },
   {
     title: "Can containers be customized or converted?",
     description:
-      "We specialize in container solutions including sales, leasing, repairs, reefer containers, conversion projects, terminal services, shipping, and end-to-end logistics such as customs clearance and freight forwarding.",
+      "Yes, we specialize in container modification and conversion projects. From office cabins and retail units to workshops and storage spaces, our engineering team transforms standard containers into fully functional, purpose-built solutions.",
   },
 ];
+
 const Faq = () => {
   const [openIndex, setOpenIndex] = useState(0);
 
@@ -109,6 +112,7 @@ const Faq = () => {
           })}
         </div>
       </div>
+      <Partner />
 
       <div className="~px-[1rem]/[19.375rem] ~pb-[2.9375rem]/[7.5rem]  ">
         <div className="flex lg:flex-row flex-col ~gap-[0rem]/[5.625rem] bg-white rounded-[0.625rem] overflow-hidden">
@@ -131,9 +135,9 @@ const Faq = () => {
                 </h2>
 
                 <p className="text-[1rem] ~pt-[0.75rem]/[1.25rem] lg:max-w-[48ch] leading-[120%] text-[#6F6F6F]">
-                  Let Starmark expertly manage your transportation and supply
-                  chain requirements with unmatched precision and care.
-                  Experience the difference today!
+                  Let Starmark supply the New & Used containers, manage your
+                  transportation and supply chain requirements with unmatched
+                  precision and care. Experience the difference today!
                 </p>
               </TextAnimation>
               <div className="~pt-[1.375rem]/[2.5rem] ~gap-[1.375rem]/[2.5rem] flex flex-wrap items-center">

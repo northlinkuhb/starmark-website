@@ -12,12 +12,12 @@ import Image from "next/image";
 
 const Partner = () => {
   return (
-    <div className="~py-[3.125rem]/[8.125rem] flex items-center flex-col ~gap-[1.25rem]/[2rem] ~px-[0.9375rem]/[18.75rem] overflow-hidden relative">
+    <div className="~pb-[3.125rem]/[8.125rem] flex items-center flex-col ~gap-[1.25rem]/[2rem] ~px-[0.9375rem]/[18.75rem] overflow-hidden relative">
       <div className="~px-[0]/[3.1875rem]">
         <p className="font-ppMoriSemibold leading-[100%] text-[1rem] flex items-center gap-[0.5rem]">
           {" "}
           <PointVector className="mb-1 text-[#004EB2]" />
-          Certifications & Partners
+          Clients
         </p>
         <TextAnimation delay={0.2}>
           <p className="~text-[0.875rem]/[1.25rem]  ~pt-[1.5rem]/[2rem] leading-[120%] text-[#6F6F6F]">

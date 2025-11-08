@@ -43,19 +43,27 @@ const FormSection = () => {
                   containers@starmarkco.com
                 </p>
               </Link>
-              <div className="flex  cursor-pointer ~gap-[0.625rem]/[1.5rem] group items-center">
+              <div className="flex   cursor-pointer ~gap-[0.625rem]/[1.5rem]  ">
                 <Location className="~size-[1rem]/[1.5rem] shrink-0" />
-                <Link
-                  target="_blank"
-                  href={"https://maps.app.goo.gl/5NwSy8ugRL9KXGzx9"}
-                  className="group-hover:underline duration-300 ease-in-out transition-all"
-                >
-                  Seef, Kingdom of Bahrain Dammam, Kingdom of Saudi Arabia
-                </Link>{" "}
+                <div>
+                  <Link
+                    target="_blank"
+                    href={"https://maps.app.goo.gl/btcR6hLhE8PvHwpE7"}
+                    className="hover:underline duration-300 ease-in-out block pb-2 transition-all"
+                  >
+                    Seef, Kingdom of Bahrain
+                  </Link>{" "}
+                  <Link
+                    className="hover:underline duration-300 pt-2 block  ease-in-out transition-all"
+                    href={"https://maps.app.goo.gl/AbvsuYFRAEXZjZMR8"}
+                  >
+                    Dammam, Kingdom of Saudi Arabia
+                  </Link>
+                </div>
               </div>
               <div className="flex ~gap-[0.625rem]/[1.5rem] items-center">
                 <Timing className="~size-[1rem]/[1.5rem] shrink-0" />
-                Mon - Fri: 8:00 AM - 6:00 PM
+                Sun - Thu 8 AM - 5 PM
               </div>
             </div>
           </div>

@@ -153,7 +153,7 @@ const Hero = ({ product }: Props) => {
               {product.benefits?.map((item, i) => (
                 <TextAnimation delay={0.2} key={i}>
                   <div>
-                    <span className="font-ppMoriSemibold">{item.title}</span>{" "}
+                    <span className="font-ppMoriSemibold">{item.title}:</span>{" "}
                     {item.description}
                   </div>
                 </TextAnimation>
@@ -170,7 +170,7 @@ const Hero = ({ product }: Props) => {
               {product.use_cases?.map((item, i) => (
                 <TextAnimation delay={0.2} key={i}>
                   <div>
-                    <span className="font-ppMoriSemibold">{item.title}</span>{" "}
+                    <span className="font-ppMoriSemibold">{item.title}:</span>{" "}
                     {item.description}
                   </div>
                 </TextAnimation>

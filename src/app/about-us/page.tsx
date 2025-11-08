@@ -3,7 +3,6 @@ import Hero from "./_components/Hero";
 import OurStory from "./_components/OurStory";
 import Mission from "./_components/Mission";
 import OurJourney from "./_components/OurJourney";
-import Partner from "./_components/Partner";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -21,7 +20,6 @@ const page = () => {
       <OurStory />
       <Mission />
       <OurJourney />
-      <Partner />
     </div>
   );
 };

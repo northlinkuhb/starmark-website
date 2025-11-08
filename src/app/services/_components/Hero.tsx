@@ -46,20 +46,20 @@ const Hero = () => {
           <TextAnimation delay={0.2}>
             <p className="~text-[0.875rem]/[1.25rem]  leading-[120%] text-[#6F6F6F]">
               <span className="font-ppMoriSemibold text-black">
-                Logistics & Freight Forwarding:&nbsp;
-              </span>
-              We specialize in moving your goods safely and on time, whether
-              it&apos;s across the country or around the globe. Our experts
-              manage the entire process, from customs clearance to final
-              delivery, so you can focus on your business.
-              <br />
-              <span className="font-ppMoriSemibold text-black">
                 Container Sales:&nbsp;
               </span>{" "}
               Looking to buy a container? We provide a wide inventory of new and
               used shipping containers for sale. They are perfect for secure
               storage, shipping, or even custom projects. Choose from various
               sizes and conditions to find the right container for your needs.
+              <br />
+              <span className="font-ppMoriSemibold text-black">
+                Logistics & Freight Forwarding:&nbsp;
+              </span>
+              We specialize in moving your goods safely and on time, whether
+              it&apos;s across the country or around the globe. Our experts
+              manage the entire process, from customs clearance to final
+              delivery, so you can focus on your business.
             </p>
           </TextAnimation>
         </div>

@@ -4,12 +4,12 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <div className="bg-[#004EB2] ~pt-[9.1875rem]/[13.5rem] overflow-hidden pb-[6.375rem] relative ~px-[1rem]/[8.5625rem]">
+    <div className="bg-[#004EB2] ~pt-[9.1875rem]/[18.5rem] overflow-hidden pb-[6.375rem] relative ~px-[1rem]/[8.5625rem]">
       <Map className=" absolute max-md:-inset-4  md:~right-[0]/[10.625rem] bottom-0 ~w-[36.9714584351rem]/[68.7593383789rem]" />
       <div className="relative z-10">
         <TextAnimation delay={0.2}>
           <h2 className="~text-[1.625rem]/[6.25rem] leading-[100%] text-white max-md:text-center md:max-w-[15ch]">
-            About Starmark Logistics
+            About Starmark
           </h2>
         </TextAnimation>
         <TextAnimation delay={0.2}>

@@ -162,7 +162,7 @@ const Benefits = ({ benefits }: Props) => {
                   className="~size-[0.758125rem]/[0.875rem] left-0 top-0 lg:-translate-y-1/2 transform lg:top-1/2 rounded-full bg-[#004EB2] absolute"
                 />
                 <div ref={addTextRef(index)}>
-                  <span className="font-ppMoriSemibold">{benefit.title}</span>{" "}
+                  <span className="font-ppMoriSemibold">{benefit.title}:</span>{" "}
                   {benefit.description}
                 </div>
               </div>

@@ -10,12 +10,13 @@ import Link from "next/link";
 const Hero = () => {
   return (
     <div>
-      <div className="w-full ~h-[30.625rem]/[68.8125rem] text-white relative overflow-hidden flex justify-center">
+      <div className="w-full ~h-[30.625rem]/[65.8125rem] text-white relative overflow-hidden flex justify-center">
         <div className="z-20 gap-[1.25rem] lg:gap-0 flex lg:flex-row flex-col-reverse items-center h-fit ~pt-[9.6875rem]/[20.625rem] ~px-[1rem]/[17rem]">
           <div className="flex flex-col max-lg:items-center">
             <p className="~text-[0.875rem]/[1.875rem] max-lg:text-center max-w-[47ch] leading-[105%]">
-              Efficient logistics solutions, ensuring seamless transportation
-              and supply chain management.
+              Middle East’s #1 Container Trading Company, along with efficient
+              logistics solutions, seamless transportation and supply chain
+              management.
             </p>
             <div className="flex items-center ~gap-[1rem]/[1.5rem]  ~pb-[1.125rem]/[2.5rem] ~pt-[1rem]/[1.375rem] leading-[100%] text-[1rem] font-ppMoriSemibold">
               <p className="flex items-center gap-[0.5rem]">

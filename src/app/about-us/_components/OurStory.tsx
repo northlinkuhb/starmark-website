@@ -17,11 +17,11 @@ const OurStory = () => {
           <p className="~text-[0.875rem]/[1.25rem] leading-[120%] text-[#6F6F6F]">
             Starmark Logistics began its journey in 2005 as a small container
             solutions provider. Over the years, we expanded into full-scale
-            logistics, offering container leasing, freight forwarding,
-            warehousing, and supply chain solutions. We’ve built a reputation as
-            a trusted partner for industries like manufacturing, retail, and
-            trade — with a legacy built on trust, operational efficiency, and
-            global reach.
+            Container trading, logistics, offering container leasing, freight
+            forwarding, warehousing, and supply chain solutions. We’ve built a
+            reputation as a trusted partner for industries like manufacturing,
+            retail, and trade — with a legacy built on trust, operational
+            efficiency, and global reach.
           </p>
         </TextAnimation>
       </div>
