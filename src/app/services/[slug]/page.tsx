@@ -18,13 +18,13 @@ export async function generateMetadata({
 
   if (!product) {
     return {
-      title: "Service Not Found | Starmark Logistics",
+      title: "Service Not Found | Starmark ",
       description: "The product you are looking for does not exist.",
     };
   }
 
   return {
-    title: `${product.title} | Starmark Logistics`,
+    title: `${product.title} | Starmark `,
     description: product.subtitle,
     alternates: {
       canonical: `/products/${params.slug}`,

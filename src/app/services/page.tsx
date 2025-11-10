@@ -4,9 +4,9 @@ import ServiceSection from "./_components/ServiceSection";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Our Services | Starmark Logistics Container & Freight Solutions",
+  title: "Our Services | Starmark Container & Freight Solutions",
   description:
-    "Explore Starmark Logistics’ wide range of services including container sales, leasing, freight forwarding, logistics, warehousing, and complete supply chain solutions tailored to your business needs.",
+    "Explore Starmark  wide range of services including container sales, leasing, freight forwarding, logistics, warehousing, and complete supply chain solutions tailored to your business needs.",
   alternates: {
     canonical: "/services",
   },

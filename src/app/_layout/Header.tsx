@@ -60,21 +60,6 @@ const Header = () => {
                 About Us
               </span>
             </Link>
-
-            <Link
-              href="/services"
-              className={`nav-link flex items-center gap-[0.5rem] ${
-                pathname.startsWith("/services") ? "font-ppMoriSemibold" : ""
-              }`}
-            >
-              {pathname.startsWith("/services") && (
-                <span className="active-dot ~size-[0.25rem]/[0.3125rem] rounded-full bg-[#FF9100]"></span>
-              )}
-              <span className="relative after:absolute block after:left-0 after:bottom-0 after:w-0 after:h-[1px] after:bg-[#002257] md:after:bg-maroonLight after:transition-all after:duration-200 hover:after:w-full">
-                Services
-              </span>
-            </Link>
-
             <Link
               href="/products"
               className={`nav-link flex items-center ~gap-[0.5rem]/[0.75rem] ${
@@ -86,6 +71,20 @@ const Header = () => {
               )}
               <span className="relative after:absolute block after:left-0 after:bottom-0 after:w-0 after:h-[1px] after:bg-[#002257] md:after:bg-maroonLight after:transition-all after:duration-200 hover:after:w-full">
                 New/Used Containers
+              </span>
+            </Link>
+
+            <Link
+              href="/services"
+              className={`nav-link flex items-center gap-[0.5rem] ${
+                pathname.startsWith("/services") ? "font-ppMoriSemibold" : ""
+              }`}
+            >
+              {pathname.startsWith("/services") && (
+                <span className="active-dot ~size-[0.25rem]/[0.3125rem] rounded-full bg-[#FF9100]"></span>
+              )}
+              <span className="relative after:absolute block after:left-0 after:bottom-0 after:w-0 after:h-[1px] after:bg-[#002257] md:after:bg-maroonLight after:transition-all after:duration-200 hover:after:w-full">
+                Logistics
               </span>
             </Link>
 
@@ -171,18 +170,6 @@ const Header = () => {
 
                       <Link
                         onClick={() => setOpen(!open)}
-                        href="/services"
-                        className={` py-[0.75rem] block ${
-                          pathname.startsWith("/services")
-                            ? "font-ppMoriSemibold "
-                            : "/"
-                        }`}
-                      >
-                        Services
-                      </Link>
-
-                      <Link
-                        onClick={() => setOpen(!open)}
                         href="/products"
                         className={`flex items-center ~gap-[0.5rem]/[0.75rem] py-[0.75rem]  ${
                           pathname.startsWith("/products")
@@ -192,6 +179,17 @@ const Header = () => {
                       >
                         New/Used Containers
                         {/* <Accordion className=" text-[#FF9100] w-[0.8125rem]" /> */}
+                      </Link>
+                      <Link
+                        onClick={() => setOpen(!open)}
+                        href="/services"
+                        className={` py-[0.75rem] block ${
+                          pathname.startsWith("/services")
+                            ? "font-ppMoriSemibold "
+                            : "/"
+                        }`}
+                      >
+                        Logistics
                       </Link>
 
                       <Link

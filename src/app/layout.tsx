@@ -16,10 +16,9 @@ const PPMoriSemibold = localFont({
 });
 
 export const metadata: Metadata = {
-  title:
-    "Starmark Logistics | Trusted Container & Freight Solutions Since 2005",
+  title: "Starmark  | Trusted Container & Freight Solutions Since 2005",
   description:
-    "With a legacy built on trust, efficiency, and global reach, Starmark Logistics provides reliable container sales, leasing, logistics, warehousing, and supply chain solutions for businesses of every size.",
+    "With a legacy built on trust, efficiency, and global reach, Starmark  provides reliable container sales, leasing, logistics, warehousing, and supply chain solutions for businesses of every size.",
   metadataBase: new URL("https://starmark.ubnhb.in/"),
 };
 

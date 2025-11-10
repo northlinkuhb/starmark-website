@@ -6,9 +6,9 @@ import OurJourney from "./_components/OurJourney";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "About Us | Starmark Logistics - Trusted Since 2005",
+  title: "About Us | Starmark - Trusted Since 2005",
   description:
-    "Discover the story of Starmark Logistics. Since 2005, we’ve built a legacy of trust, efficiency, and global logistics expertise, offering reliable container solutions, freight services, and end-to-end supply chain support.",
+    "Discover the story of Starmark. Since 2005, we’ve built a legacy of trust, efficiency, and global logistics expertise, offering reliable container solutions, freight services, and end-to-end supply chain support.",
   alternates: {
     canonical: "/about-us",
   },

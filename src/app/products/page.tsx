@@ -4,9 +4,9 @@ import ProductsPage from "./_components/Products";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Products | Starmark Logistics - Shipping Containers & Solutions",
+  title: "Products | Starmark - Shipping Containers & Solutions",
   description:
-    "Browse Starmark Logistics’ range of high-quality shipping containers for sale and lease. From dry vans to reefers, our reliable products support global freight, storage, and supply chain needs.",
+    "Browse Starmark  range of high-quality shipping containers for sale and lease. From dry vans to reefers, our reliable products support global freight, storage, and supply chain needs.",
   alternates: {
     canonical: "/products",
   },

@@ -27,13 +27,13 @@ const Footer = () => {
                     href="/products"
                     className="hover:text-[#002257] block hover:underline duration-300 ease-in-out transition-all"
                   >
-                    Containers
+                    New/Used Containers
                   </Link>
                   <Link
                     className="hover:text-[#002257] block hover:underline duration-300 ease-in-out transition-all"
                     href="/services"
                   >
-                    Services
+                    Logistics
                   </Link>
                   <Link
                     href="/contact"
@@ -113,9 +113,20 @@ const Footer = () => {
 
       <div className="border-t border-t-[#E5E5E5] ~py-[1rem]/[2rem] ~px-[2.5rem]/[11.875rem]">
         <div className=" flex sm:flex-row flex-col max-sm:items-center ~text-[0.75rem]/[1rem] font-ppMoriSemibold text-[#6F6F6F] ~gap-[0.25rem]/[1rem] justify-between w-full">
-          <p>Starmark Logistics® All rights reserved.</p>
+          <p>Starmark® All rights reserved.</p>
           <p>
-            Designed by <span className="text-black">Urbanhub Innovations</span>
+            Designed by{" "}
+            <span className="text-black">
+              <span>
+                <Link
+                  target="_blank"
+                  className="hover:underline decoration-1 "
+                  href={"https://www.urbanhubinnovations.com/"}
+                >
+                  Urbanhub Innovations
+                </Link>
+              </span>
+            </span>
           </p>
         </div>
       </div>
