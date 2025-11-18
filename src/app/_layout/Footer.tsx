@@ -74,16 +74,24 @@ const Footer = () => {
                 Follow us{" "}
                 <span className="text-[#838383]"> &nbsp;on Socials</span>
                 <div className="flex ~gap-[0.625rem]/[1rem] ~pl-[2.75rem]/[2.5625rem]">
-                  <Link target="_blank" href={"https://www.linkedin.com/"}>
+                  <Link
+                    target="_blank"
+                    href={"https://www.linkedin.com/company/starmarkco/"}
+                  >
                     {" "}
                     <LinkedIn className="~size-[0.875rem]/[1.5rem] hover:scale-110 duration-300 transition-all ease-in-out" />
                   </Link>
-                  <Link target="_blank" href={"https://www.instagram.com/"}>
+                  <Link
+                    target="_blank"
+                    href={
+                      "https://www.instagram.com/starmark_bahrain?igsh=cnE4czB6cmJuaGdz&utm_source=qr"
+                    }
+                  >
                     <Instagram className="~size-[0.875rem]/[1.5rem] hover:scale-110 duration-300 transition-all ease-in-out" />
                   </Link>
-                  <Link target="_blank" href={"https://www.facebook.com/"}>
+                  {/* <Link target="_blank" href={"https://www.facebook.com/"}>
                     <FaceBook className="~size-[0.875rem]/[1.5rem] hover:scale-110 duration-300 shrink-0 transition-all ease-in-out" />
-                  </Link>{" "}
+                  </Link>{" "} */}
                 </div>
               </div>
 
@@ -120,7 +128,7 @@ const Footer = () => {
               <span>
                 <Link
                   target="_blank"
-                  className="hover:underline decoration-1 "
+                  className=" hover:underline decoration-1 "
                   href={"https://www.urbanhubinnovations.com/"}
                 >
                   Urbanhub Innovations
